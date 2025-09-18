@@ -14,6 +14,8 @@ Rechnen ERP CRM is a modern, open-source ERP & CRM platform designed to help bus
 
 📊 Dashboard – At-a-glance KPIs for invoices, quotes, and customers.
 
+---
+
 🛠️ Tech Stack
 
 Frontend: React + Vite + Ant Design
@@ -80,3 +82,4 @@ Dashboard
 
 
  ---
+

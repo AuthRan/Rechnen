@@ -16,6 +16,9 @@ export default function UpgradeButton() {
   );
 }
 
+
+console.log("You are being logged out!")
+
 console.log(
   '🚀 Welcome to IDURAR ERP CRM! Did you know that we also offer commercial customization services? Contact us at hello@idurarapp.com for more information.'
 );

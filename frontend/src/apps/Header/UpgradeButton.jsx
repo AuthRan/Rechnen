@@ -11,7 +11,7 @@ export default function UpgradeButton() {
 
   return (
     <Badge count={1} size="small">
-      
+
     </Badge>
   );
 }
@@ -19,3 +19,6 @@ export default function UpgradeButton() {
 console.log(
   '🚀 Welcome to IDURAR ERP CRM! Did you know that we also offer commercial customization services? Contact us at hello@idurarapp.com for more information.'
 );
+
+
+//Hello check
